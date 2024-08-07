@@ -4475,11 +4475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\3DS\\Guilherme\\RpgApi\\RpgApi.csproj",
+      "projectUniqueName": "D:\\3DS\\PAM\\Guilherme\\RPG-API-3\\RpgApi.csproj",
       "projectName": "RpgApi",
-      "projectPath": "D:\\3DS\\Guilherme\\RpgApi\\RpgApi.csproj",
+      "projectPath": "D:\\3DS\\PAM\\Guilherme\\RPG-API-3\\RpgApi.csproj",
       "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-      "outputPath": "D:\\3DS\\Guilherme\\RpgApi\\obj\\",
+      "outputPath": "D:\\3DS\\PAM\\Guilherme\\RPG-API-3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

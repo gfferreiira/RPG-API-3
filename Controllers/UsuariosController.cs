@@ -35,7 +35,7 @@ namespace RpgApi.Controllers
             {
                 new Claim(ClaimTypes.NameIdentifier, usuario.Id.ToString()),
                 new Claim(ClaimTypes.Name, usuario.Username),
-                
+                new Claim(ClaimTypes.Role, usuario.Perfil)
             };
 
             SymmetricSecurityKey key =
